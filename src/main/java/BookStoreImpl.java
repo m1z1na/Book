@@ -17,7 +17,7 @@ public class BookStoreImpl implements BookStore {
     @Override
     public void store(Book book) {
 
-        try { 
+        try {
             FileWriter fw = new FileWriter(filename, true);
             fw.write(format.format(book));
             fw.write("\n");

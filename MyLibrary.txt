@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<book>
-    <title>Goodbye to Berlin</title>
-    <author>Кристофер Ишервуд</author>
-    <year>1939</year>
-</book>
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<book>
-    <title>Goodbye to Berlin</title>
-    <author>Кристофер Ишервуд</author>
-    <year>1939</year>
-</book>
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <book>
     <title>Goodbye to Berlin</title>
     <author>Кристофер Ишервуд</author>
