@@ -1,4 +1,4 @@
-public class BookFactory {
+public class BookParser {
     private final String  delimeter = ","; // Разделитель
     public Book getBookInfoFromText(String text) {
 

@@ -22,7 +22,7 @@ public class BookExec {
         //для добавления в файл
         BookStoreImpl myLibrary = new BookStoreImpl(format,args[1]);
         //тут передаем что-то возращется объект книги
-        BookFactory bookFactory = new BookFactory();
+        BookParser bookFactory = new BookParser();
 
 
         while (true) {
